@@ -60,6 +60,7 @@ li {
 	padding-left: 30px;
 	border-bottom: 1px solid #888888;
 	font-size: 24px;
+	cursor: pointer;
 }
 li:last-of-type { border-bottom: 0; }
 li > div {
@@ -81,6 +82,7 @@ li > div {
 	border-radius: 5px;
 	margin-left: 20px;
 	color: #fff;
+	cursor: pointer;
 	/*padding-top: 15px;*/
 }
 .remove {

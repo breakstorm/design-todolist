@@ -14,12 +14,14 @@
       - HTML + CSS + Javascript 
       - Jasmine 테스팅 코드 구현  
       - 추가 고려사항 : autoprefixer 
-   - 기능 
+   - 세부 사용 기술 
+     - vanila javascript DOM 추가, 삭제, 완료, 이동 
 
 ## 개발 진행 화면 
 
 
 ## 프로젝트일지 
+
 
 ## 참고정보 
    - [autoprefixer](https://www.npmjs.com/package/autoprefixer) 
