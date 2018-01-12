@@ -46,6 +46,7 @@ header {
 }
 header > div {
 	font-size: 48px;
+	color: #fff;
 }
 section {
 	position: relative;
@@ -59,6 +60,7 @@ li {
 	padding-left: 30px;
 	border-bottom: 1px solid #888888;
 	font-size: 24px;
+	cursor: pointer;
 }
 li:last-of-type { border-bottom: 0; }
 li > div {
@@ -79,5 +81,25 @@ li > div {
 	float: right;
 	border-radius: 5px;
 	margin-left: 20px;
+	color: #fff;
+	cursor: pointer;
 	/*padding-top: 15px;*/
+}
+.remove {
+	color: #e64980;
+	font-weight: 600;
+	opacity: 0;
+	cursor: pointer;
+}
+.todo-item:hover > .remove {
+	opacity: 1;
+}
+.check {
+	color: #3bc9db;
+	font-weight: 800;
+	cursor: pointer;
+}
+.strikethrough {
+	color: #adb5bd;
+	text-decoration: line-through;
 }
