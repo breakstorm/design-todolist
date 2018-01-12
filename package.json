@@ -1,0 +1,25 @@
+{
+  "name": "design-todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breakstorm/design-todolist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breakstorm/design-todolist/issues"
+  },
+  "homepage": "https://github.com/breakstorm/design-todolist#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.8.0",
+    "karma": "^2.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.1"
+  }
+}
