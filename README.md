@@ -18,9 +18,11 @@
      - vanila javascript DOM 추가, 삭제, 완료, 이동 
 
 ## 개발 진행 화면 
+#### 1차 개발화면  
+![](design-todolist001.gif)
 
 
-## 프로젝트일지 
+## [프로젝트일지](https://github.com/breakstorm/design-todolist/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%BC%EC%A7%80) 
 
 
 ## 참고정보 
