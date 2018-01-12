@@ -99,3 +99,7 @@ li > div {
 	font-weight: 800;
 	cursor: pointer;
 }
+.strikethrough {
+	color: #adb5bd;
+	text-decoration: line-through;
+}
